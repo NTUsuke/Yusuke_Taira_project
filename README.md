@@ -65,7 +65,7 @@ Left hemisphere was more activated compared to the right in general as all the s
 In terms of activation areas compared to non-tactile words, tactile words activated large areas of parietal lobe where somatosensory cortex is located at but also partially activated visual cortex. It might be due to overlapping features of tactile and visual words.
 
 
-![Alt text](path/to/fMRI_tactile.jpg)
+![Alt text](path/to/fMRI_tactile.png)
 
 ### Conclusion and Limitations
 
