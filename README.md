@@ -74,7 +74,7 @@ This project aimed to investigate brain activation when presented with tactile v
 ## Acknowledgements
 This project taught me a lot and I can not believe that I could learn python, statistics, GLM and fMRI analysis at the same time in such a limited amount of time. About a few months ago, I had no idea where to start python and now I can use it to extract, analyze and visualize fMRI data! I'm quite sure that I couldn't have achieved this without Brainhack school.
 
-In the end, I'd like to express my huge thanks to all of the organizers and TA's, especially Yu-Shiang without whom I could never have finished my project, and Dr.Josh and Dr. Lee, who hosted such as amazing program at National Taiwan University.
+In the end, I'd like to express my huge thanks to all of the organizers and TA's, especially Yu-Shiang without whom I could have never finished my project, and Dr.Josh and Dr. Lee, who hosted such as amazing program at National Taiwan University.
 
 ## References
 [Wang, S., Zhang, Y., Zhang, X., Sun, J., Lin, N., Zhang, J., & Zong, C. (2022). An fMRI Dataset for Concept Representation with Semantic Feature Annotations. Scientific data, 9(1), 721.](https://doi.org/10.1038/s41597-022-01840-2)
